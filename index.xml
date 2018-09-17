@@ -6,10 +6,20 @@
     <description>Recent content on RosettaCash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2018 00:57:32 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Sep 2018 16:19:38 +0800</lastBuildDate>
     
 	<atom:link href="https://rosetta.cash/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MoneyButton 初体验</title>
+      <link>https://rosetta.cash/posts/money-button/</link>
+      <pubDate>Mon, 17 Sep 2018 16:19:38 +0800</pubDate>
+      
+      <guid>https://rosetta.cash/posts/money-button/</guid>
+      <description>&lt;p&gt;听说 yours 公司最新推出了一款叫 MoneyButton(钱钮) 的产品，可以在你的网站上快速集成比特币(BCH) 支付。我决定来尝试一下。
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Forth 十分鐘</title>
@@ -17,7 +27,9 @@
       <pubDate>Fri, 24 Aug 2018 00:57:32 +0800</pubDate>
       
       <guid>https://rosetta.cash/posts/forth-10-minutes/</guid>
-      <description>https://rosetta.cash/talks/forth-in-10-minutes</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rosetta.cash/talks/forth-in-10-minutes&#34;&gt;https://rosetta.cash/talks/forth-in-10-minutes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
