@@ -6,31 +6,20 @@
     <description>Recent content in Posts on RosettaCash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Oct 2018 16:41:52 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 17:14:17 +0800</lastBuildDate>
     
 	<atom:link href="https://rosetta.cash/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cashport基于比特币现金的登录授权工具</title>
-      <link>https://rosetta.cash/posts/cashport/</link>
-      <pubDate>Mon, 15 Oct 2018 16:41:52 +0800</pubDate>
+      <title>比特币不会记得</title>
+      <link>https://rosetta.cash/posts/bitcoin-never-rember/</link>
+      <pubDate>Sun, 09 Dec 2018 17:14:17 +0800</pubDate>
       
-      <guid>https://rosetta.cash/posts/cashport/</guid>
-      <description>&lt;p&gt;最近handcash团队推出了一个登录授权SDK，名为&lt;a href=&#34;https://cashport.io&#34;&gt;cashport&lt;/a&gt;，它可以让用户
-很方便地登录第三方应用并使用BCH进行收付款。我们第一时间更新到了最新款的handcash钱包，来测试一下这个新功能。&lt;/p&gt;
+      <guid>https://rosetta.cash/posts/bitcoin-never-rember/</guid>
+      <description>&lt;p&gt;现在是2018年年底，加密货币市场已经经历了整整一年的熊市。距离第一个比特币被挖出也已经过去了10年。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>MoneyButton 初体验</title>
-      <link>https://rosetta.cash/posts/money-button/</link>
-      <pubDate>Mon, 17 Sep 2018 16:19:38 +0800</pubDate>
-      
-      <guid>https://rosetta.cash/posts/money-button/</guid>
-      <description>&lt;p&gt;听说 yours 公司最新推出了一款叫 MoneyButton(钱钮) 的产品，可以在你的网站上快速集成比特币(BCH) 支付。我决定来尝试一下。
-&lt;/p&gt;</description>
     </item>
     
     <item>
